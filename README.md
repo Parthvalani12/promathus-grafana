@@ -1,1 +1,3 @@
-# promathus-grafana
+# create a file
+
+mkdir -p promgrafnode/prometheus && \ mkdir -p promgrafnode/grafana/provisioning && \ touch promgrafnode/docker-compose.yml && \ touch promgrafnode/prometheus/prometheus.yml
